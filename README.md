@@ -145,16 +145,6 @@ gTTS>=2.3.0
 - Reduce max_tokens slider value
 - Consider using GPU if available
 
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## Credits 👏
 
 - **Model Training**: [@rasyosef](https://github.com/rasyosef)
@@ -162,10 +152,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Framework**: [Gradio](https://gradio.app/)
 - **Model**: [Meta Llama 3.2](https://huggingface.co/meta-llama)
 - **TTS**: [gTTS](https://github.com/pndurette/gTTS)
-
-## License 📄
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments 🙏
 
