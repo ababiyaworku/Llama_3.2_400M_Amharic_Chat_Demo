@@ -33,8 +33,8 @@ Model ID: `rasyosef/Llama-3.2-400M-Amharic-Instruct-Poems-Stories-Wikipedia`
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/amharic-ai-chat.git
-cd amharic-ai-chat
+git clone https://github.com/ababiyaworku/Llama_3.2_400M_Amharic_Chat_Demo.git
+cd Llama_3.2_400M_Amharic_Chat_Demo
 ```
 
 2. Run the script (dependencies will auto-install):
