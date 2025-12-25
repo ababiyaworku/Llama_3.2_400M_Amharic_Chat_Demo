@@ -1,5 +1,7 @@
 ## Llama_3.2_400M_Amharic_Chat_Demo
 A local Llama_3.2_400M_Amharic_Chat_Demo🤖
+![llma_amh](https://github.com/user-attachments/assets/33f6c59d-3b7d-4d66-83e6-79cb6a44fa7c)
+
 
 An interactive Amharic language chatbot powered by Llama 3.2 with text-to-speech capabilities. This application provides a modern chat interface for conversing in Amharic with AI-powered responses and optional voice output.
 
@@ -62,6 +64,8 @@ http://localhost:7860
 2. Press Enter or click the "ላክ" (Send) button
 3. Wait for the AI response to stream in
 4. Audio will automatically play if voice is enabled
+
+![llama_amh_02](https://github.com/user-attachments/assets/2893e9b5-0a04-4b64-8d97-8262fa728b9f)
 
 ### Settings
 
