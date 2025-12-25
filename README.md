@@ -158,7 +158,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Credits 👏
 
 - **Model Training**: [@rasyosef](https://github.com/rasyosef)
-- **Development**: [@ababiya](https://github.com/ababiya)
+- **Development**: [@ababiya](https://github.com/ababiyaworku)
 - **Framework**: [Gradio](https://gradio.app/)
 - **Model**: [Meta Llama 3.2](https://huggingface.co/meta-llama)
 - **TTS**: [gTTS](https://github.com/pndurette/gTTS)
