@@ -1,0 +1,71 @@
+﻿instruction,thought,output,text
+አበበ 5 ፖም ነበረው። 2ቱን ለወንድሙ ሰጠ። ከዚያም 3 ተጨማሪ ገዛ። አሁን አበበ ስንት ፖም አለው?,በመጀመሪያ አበበ 5 ፖም ነበረው። 2ቱን ሲሰጥ (5 - 2 = 3) ይቀረዋል። ከዚያ 3 ተጨማሪ ሲገዛ (3 + 3 = 6) ይሆናል።,6,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>አበበ 5 ፖም ነበረው። 2ቱን ለወንድሙ ሰጠ። ከዚያም 3 ተጨማሪ ገዛ። አሁን አበበ ስንት ፖም አለው?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>በመጀመሪያ አበበ 5 ፖም ነበረው። 2ቱን ሲሰጥ (5 - 2 = 3) ይቀረዋል። ከዚያ 3 ተጨማሪ ሲገዛ (3 + 3 = 6) ይሆናል።<|end|>
+<|start|>assistant<|channel|>final<|message|>6<|end|>"
+ትላንትና ማክሰኞ ቢሆን፣ ከነገ ወዲያ ምን ቀን ይሆናል?,ትላንትና ማክሰኞ ከነበረ፣ ዛሬ ረቡዕ ነው። ስለዚህ ነገ ሀሙስ ሲሆን፣ ከነገ ወዲያ ደግሞ አርብ ይሆናል።,አርብ,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>ትላንትና ማክሰኞ ቢሆን፣ ከነገ ወዲያ ምን ቀን ይሆናል?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>ትላንትና ማክሰኞ ከነበረ፣ ዛሬ ረቡዕ ነው። ስለዚህ ነገ ሀሙስ ሲሆን፣ ከነገ ወዲያ ደግሞ አርብ ይሆናል።<|end|>
+<|start|>assistant<|channel|>final<|message|>አርብ<|end|>"
+ሳራ የሂሩት እጥፍ እድሜ አላት። የሂሩት እድሜ 10 ቢሆን፣ ከ3 ዓመት በፊት የሳራ እድሜ ስንት ነበር?,የሂሩት እድሜ 10 ከሆነ፣ የሳራ እድሜ 10 x 2 = 20 ነው። ከ3 ዓመት በፊት የሳራ እድሜ ለማወቅ፣ ከ20 ላይ 3 መቀነስ ያስፈልጋል (20 - 3 = 17)።,17,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>ሳራ የሂሩት እጥፍ እድሜ አላት። የሂሩት እድሜ 10 ቢሆን፣ ከ3 ዓመት በፊት የሳራ እድሜ ስንት ነበር?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>የሂሩት እድሜ 10 ከሆነ፣ የሳራ እድሜ 10 x 2 = 20 ነው። ከ3 ዓመት በፊት የሳራ እድሜ ለማወቅ፣ ከ20 ላይ 3 መቀነስ ያስፈልጋል (20 - 3 = 17)።<|end|>
+<|start|>assistant<|channel|>final<|message|>17<|end|>"
+አንድ አባትና ልጅ አብረው በመኪና ሲሄዱ አደጋ አጋጠማቸው። አባትየው በቦታው ሞተ፣ ልጁ ግን ወደ ሆስፒታል ተወሰደ። ሐኪሙ ወደ ቀዶ ጥገና ክፍል ሲገባ ልጁን አይቶ 'ይህ ልጄ ስለሆነ ቀዶ ጥገናውን ማካሄድ አልችልም' አለ። ይህ እንዴት ሊሆን ይችላል?,አባትየው በአደጋው ስለሞተ፣ ሐኪሙ የልጁ አባት ሊሆን አይችልም። ስለዚህ ሐኪሟ የልጁ እናት ናት ማለት ነው።,ሐኪሟ የልጁ እናት ናት,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>አንድ አባትና ልጅ አብረው በመኪና ሲሄዱ አደጋ አጋጠማቸው። አባትየው በቦታው ሞተ፣ ልጁ ግን ወደ ሆስፒታል ተወሰደ። ሐኪሙ ወደ ቀዶ ጥገና ክፍል ሲገባ ልጁን አይቶ 'ይህ ልጄ ስለሆነ ቀዶ ጥገናውን ማካሄድ አልችልም' አለ። ይህ እንዴት ሊሆን ይችላል?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>አባትየው በአደጋው ስለሞተ፣ ሐኪሙ የልጁ አባት ሊሆን አይችልም። ስለዚህ ሐኪሟ የልጁ እናት ናት ማለት ነው።<|end|>
+<|start|>assistant<|channel|>final<|message|>ሐኪሟ የልጁ እናት ናት<|end|>"
+በሩጫ ውድድር ላይ ሁለተኛውን ሰው ቀድመህ ብታልፍ፣ ስንተኛ ትወጣለህ?,ሁለተኛውን ሰው ስታልፍ፣ አንተ የሱን ቦታ ትይዛለህ። ስለዚህ አንተ ሁለተኛ ትሆናለህ እንጂ አንደኛ አትሆንም (የመጀመሪያው ሰው አሁንም ከፊትህ ነውና)።,ሁለተኛ,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>በሩጫ ውድድር ላይ ሁለተኛውን ሰው ቀድመህ ብታልፍ፣ ስንተኛ ትወጣለህ?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>ሁለተኛውን ሰው ስታልፍ፣ አንተ የሱን ቦታ ትይዛለህ። ስለዚህ አንተ ሁለተኛ ትሆናለህ እንጂ አንደኛ አትሆንም (የመጀመሪያው ሰው አሁንም ከፊትህ ነውና)።<|end|>
+<|start|>assistant<|channel|>final<|message|>ሁለተኛ<|end|>"
+አበበ 6 ዓመት ሲሆነው እህቱ የዕድሜው ግማሽ ነበረች። አበበ 40 ዓመት ሲሞላው የእህቱ ዕድሜ ስንት ይሆናል?,"1. መጀመሪያ የአበበን እና የእህቱን የዕድሜ ልዩነት እናሰላ። አበበ 6 ዓመት ሲሆን እህቱ ግማሽ ስለሆነች 3 ዓመቷ ነው።
+2. የዕድሜ ልዩነቱ 6 - 3 = 3 ዓመት ነው። እህቱ ከአበበ በ3 ዓመት ታንሳለች።
+3. ይህ የዕድሜ ልዩነት በጊዜ ሂደት አይቀየርም።
+4. አበበ 40 ዓመት ሲሞላው፣ እህቱ አሁንም በ3 ዓመት ስለምታንስ 40 - 3 = 37 ዓመት ይሆናታል።",37,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>አበበ 6 ዓመት ሲሆነው እህቱ የዕድሜው ግማሽ ነበረች። አበበ 40 ዓመት ሲሞላው የእህቱ ዕድሜ ስንት ይሆናል?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>1. መጀመሪያ የአበበን እና የእህቱን የዕድሜ ልዩነት እናሰላ። አበበ 6 ዓመት ሲሆን እህቱ ግማሽ ስለሆነች 3 ዓመቷ ነው።
+2. የዕድሜ ልዩነቱ 6 - 3 = 3 ዓመት ነው። እህቱ ከአበበ በ3 ዓመት ታንሳለች።
+3. ይህ የዕድሜ ልዩነት በጊዜ ሂደት አይቀየርም።
+4. አበበ 40 ዓመት ሲሞላው፣ እህቱ አሁንም በ3 ዓመት ስለምታንስ 40 - 3 = 37 ዓመት ይሆናታል።<|end|>
+<|start|>assistant<|channel|>final<|message|>37<|end|>"
+በሩጫ ውድድር ላይ ሁለተኛ ደረጃ ላይ ያለውን ሰው ብትቀድመው ስንተኛ ደረጃ ትይዛለህ?,"1. በውድድር ላይ አንድን ሰው ስትቀድም የእሱን ቦታ ትረከባለህ።
+2. ሁለተኛ ደረጃ ላይ ያለውን ሰው ካለፍክ፣ አንተ በእሱ ቦታ (ሁለተኛ ደረጃ ላይ) ትሆናለህ።
+3. አንደኛውን ሰው ስላልቀደምክ አንደኛ ልትሆን አትችልም። ስለዚህ ደረጃህ ሁለተኛ ነው።",ሁለተኛ,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>በሩጫ ውድድር ላይ ሁለተኛ ደረጃ ላይ ያለውን ሰው ብትቀድመው ስንተኛ ደረጃ ትይዛለህ?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>1. በውድድር ላይ አንድን ሰው ስትቀድም የእሱን ቦታ ትረከባለህ።
+2. ሁለተኛ ደረጃ ላይ ያለውን ሰው ካለፍክ፣ አንተ በእሱ ቦታ (ሁለተኛ ደረጃ ላይ) ትሆናለህ።
+3. አንደኛውን ሰው ስላልቀደምክ አንደኛ ልትሆን አትችልም። ስለዚህ ደረጃህ ሁለተኛ ነው።<|end|>
+<|start|>assistant<|channel|>final<|message|>ሁለተኛ<|end|>"
+አንድ ሸሚዝ በፀሐይ ላይ ለማድረቅ 20 ደቂቃ ቢፈጅ፣ 5 ሸሚዞችን በጋራ በፀሐይ ላይ ለማድረቅ ምን ያህል ጊዜ ይፈጃል?,"1. ይህ ጥያቄ የጋራ ግንዛቤ (common sense) ይጠይቃል።
+2. ሸሚዞቹ የሚደርቁት በተናጠል ሳይሆን በተመሳሳይ ጊዜ (በጋራ) ነው።
+3. ፀሐይ በአንዱ ላይ የምታሳርፈው ሙቀት በሌሎችም ላይ እኩል ስለሆነ ሁሉም በአንድ ጊዜ ይደርቃሉ።
+4. ስለዚህ የሚፈጀው ጊዜ አይጨምርም፤ አንድ ሸሚዝ ለማድረቅ የፈጀውን ያህል (20 ደቂቃ) ይፈጃል።",20 ደቂቃ,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>አንድ ሸሚዝ በፀሐይ ላይ ለማድረቅ 20 ደቂቃ ቢፈጅ፣ 5 ሸሚዞችን በጋራ በፀሐይ ላይ ለማድረቅ ምን ያህል ጊዜ ይፈጃል?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>1. ይህ ጥያቄ የጋራ ግንዛቤ (common sense) ይጠይቃል።
+2. ሸሚዞቹ የሚደርቁት በተናጠል ሳይሆን በተመሳሳይ ጊዜ (በጋራ) ነው።
+3. ፀሐይ በአንዱ ላይ የምታሳርፈው ሙቀት በሌሎችም ላይ እኩል ስለሆነ ሁሉም በአንድ ጊዜ ይደርቃሉ።
+4. ስለዚህ የሚፈጀው ጊዜ አይጨምርም፤ አንድ ሸሚዝ ለማድረቅ የፈጀውን ያህል (20 ደቂቃ) ይፈጃል።<|end|>
+<|start|>assistant<|channel|>final<|message|>20 ደቂቃ<|end|>"
+አንድ ገበሬ 17 በጎች ነበሩት። ከዘጠኝ በስተቀር ሁሉም ሞቱበት። አሁን ስንት በጎች አሉት?,"1. ጥያቄውን በጥንቃቄ ማንበብ ያስፈልጋል። 'ከዘጠኝ በስተቀር' ይላል።
+2. ይህ ማለት 9ኙ አልሞቱም ወይም በህይወት አሉ ማለት ነው።
+3. የሞቱት ብዛት 17 - 9 = 8 ነው።
+4. ጥያቄው የሚጠይቀው አሁን በእጁ ላይ ያሉትን (በህይወት ያሉትን) በጎች ነው። መልሱ በግልጽ እንደተቀመጠው 9 ነው።",9,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>አንድ ገበሬ 17 በጎች ነበሩት። ከዘጠኝ በስተቀር ሁሉም ሞቱበት። አሁን ስንት በጎች አሉት?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>1. ጥያቄውን በጥንቃቄ ማንበብ ያስፈልጋል። 'ከዘጠኝ በስተቀር' ይላል።
+2. ይህ ማለት 9ኙ አልሞቱም ወይም በህይወት አሉ ማለት ነው።
+3. የሞቱት ብዛት 17 - 9 = 8 ነው።
+4. ጥያቄው የሚጠይቀው አሁን በእጁ ላይ ያሉትን (በህይወት ያሉትን) በጎች ነው። መልሱ በግልጽ እንደተቀመጠው 9 ነው።<|end|>
+<|start|>assistant<|channel|>final<|message|>9<|end|>"
+አንድን ቁጥር በ3 አባዝተን 4 ብንቀንስበት እና ውጤቱ 20 ቢመጣ፣ መነሻ ቁጥሩ ስንት ነው?,"1. ይህንን ለማግኘት ስሌቱን ከኋላ ወደ ፊት (Reverse calculation) መስራት አለብን።
+2. የመጨረሻው ውጤት 20 ነው።
+3. ወደኋላ ስንሄድ፣ '4 መቀነስ' የሚለውን ወደ '4 መደመር' እንቀይራለን፡ 20 + 4 = 24።
+4. ቀጥሎ 'በ3 ማባዛት' የሚለውን ወደ 'ለ3 ማካፈል' እንቀይራለን፡ 24 ÷ 3 = 8።
+5. ማረጋገጫ፡ 8 × 3 = 24፤ 24 - 4 = 20። ትክክል ነው።",8,"<|start|>system<|message|>You are a helpful assistant that reasons step-by-step in Amharic.<|end|>
+<|start|>user<|message|>አንድን ቁጥር በ3 አባዝተን 4 ብንቀንስበት እና ውጤቱ 20 ቢመጣ፣ መነሻ ቁጥሩ ስንት ነው?<|end|>
+<|start|>assistant<|channel|>analysis<|message|>1. ይህንን ለማግኘት ስሌቱን ከኋላ ወደ ፊት (Reverse calculation) መስራት አለብን።
+2. የመጨረሻው ውጤት 20 ነው።
+3. ወደኋላ ስንሄድ፣ '4 መቀነስ' የሚለውን ወደ '4 መደመር' እንቀይራለን፡ 20 + 4 = 24።
+4. ቀጥሎ 'በ3 ማባዛት' የሚለውን ወደ 'ለ3 ማካፈል' እንቀይራለን፡ 24 ÷ 3 = 8።
+5. ማረጋገጫ፡ 8 × 3 = 24፤ 24 - 4 = 20። ትክክል ነው።<|end|>
+<|start|>assistant<|channel|>final<|message|>8<|end|>"
